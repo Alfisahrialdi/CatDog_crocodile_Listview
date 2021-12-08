@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context="MainActivity"
-    android:background="@color/white">
+    android:background="@drawable/bck2">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -22,7 +22,7 @@
             android:layout_marginTop="2dp"
             android:fontFamily="sans-serif-condensed-medium"
             android:textSize="30dp"
-            android:text=" Biodata Pembuat" />
+            android:text=" Biodata " />
 
     </LinearLayout>
 
@@ -38,7 +38,7 @@
             android:layout_width="120dp"
             android:layout_height="150dp"
             android:layout_marginTop="40dp"
-            android:src="@drawable/profile"
+            android:src="@drawable/aldi"
             android:text="Botton"
             android:scaleType="fitCenter"/>
 
@@ -56,31 +56,31 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
-            android:text="Nama : Muhammad Imam Zarkasi" />
+            android:text="Nama : Alfi Sahri Aldi" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
-            android:text="Kelas : TI C" />
+            android:text="Kelas : Teknik Informatika A" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
-            android:text="NIM : 200602083" />
+            android:text="NIM : 200602002" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
-            android:text="Prodi : Tekhnik Informatika" />
+            android:text="Semester : 3" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
-            android:text="Hobby : Nonton Indian tutorial" />
+            android:text="Hobby : Mancing" />
 
     </LinearLayout>
 
